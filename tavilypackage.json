@@ -1,0 +1,11 @@
+{
+  "name": "n8n-tavily-render",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "latest",
+    "@tavily/n8n-nodes-tavily": "latest"
+  }
+}
